@@ -1,0 +1,40 @@
+html {
+background: gray;
+border: solid 5px #D1D0CE;
+margin: 40px;
+padding: 50px;
+color: silver;
+font-size: 150%;
+display: block;
+font-family: Georgia, serif;
+}
+
+body {
+	margin: 40px;
+	padding: 30px;
+	color: white;
+	text-align: left;
+
+}
+.top {
+	text-align: center;
+padding-bottom: 40px;
+border-bottom: solid 1px #D1D0CE;
+}
+
+.bottom {
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 40px;
+	border-top: solid 1px #D1D0CE
+}
+
+.textwrap {
+	float: right;
+clear: left;
+border: 1px solid #D1D0CE;
+padding: 10px;
+margin: 10px;
+vertical-align: text-right;
+display: inline-block;
+}
